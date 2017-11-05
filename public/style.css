@@ -1,0 +1,7 @@
+.container.main {
+  max-width: 800px;
+}
+
+.post .comment {
+  padding-left: 3em;
+}
